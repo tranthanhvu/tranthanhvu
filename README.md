@@ -25,7 +25,7 @@ I’m passionate about building visually appealing mobile apps, developing scala
 
 ![Profile views](https://komarev.com/ghpvc/?username=tranthanhvu&color=blue)
 
-### ⚙️ &nbsp;Welcome to my farm!
+### 🍙 &nbsp;Welcome to my farm!
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/tranthanhvu"/>
