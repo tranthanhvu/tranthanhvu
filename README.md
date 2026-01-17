@@ -1,11 +1,32 @@
-# 👋🏻 Hi there, I'm Vu
+# 👋🏻 Hello
 
-![](https://badges.pufler.dev/visits/tranthanhvu/tranthanhvu?color=black&logo=github)
+Hi, I’m Zu, a junior Software Engineer with over 15 years of experience in mobile application development.
 
-As a software engineer, I specialize in mobile application development. I am passionate about creating visually appealing applications and developing cutting-edge technologies such as blockchain and artificial intelligence.
+I’m passionate about building visually appealing mobile apps, developing scalable web apps, researching cutting-edge technologies like blockchain, and integrating AI/ML/VR/AR into mobile devices.
 
-### ⚙️ &nbsp;GitHub Analytics
 
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
+![Nestjs](https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=Nestjs)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=FastAPI)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;\
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
+![xCode](https://img.shields.io/badge/-XCode-05122A?style=flat&logo=xcode)&nbsp;
+![vsCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=vscode)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
+![Profile views](https://komarev.com/ghpvc/?username=tranthanhvu&color=blue)
+
+### ⚙️ &nbsp;Welcome to my farm!
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/tranthanhvu"/>
