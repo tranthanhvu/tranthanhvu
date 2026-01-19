@@ -1,6 +1,6 @@
 # 👋🏻 Hello
 
-Hi, I’m Zu, a junior Software Engineer with over 15 YoE.
+I’m Zu, a junior Software Engineer with over 15 YoE.
 
 I’m passionate about building visually appealing mobile apps, developing scalable web apps, researching cutting-edge technologies like blockchain, and integrating AI/ML/VR/AR into mobile devices.
 
